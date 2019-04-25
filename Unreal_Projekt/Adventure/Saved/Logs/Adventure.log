@@ -580,3 +580,104 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.25-10.58.46:383][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
 [2019.04.25-10.58.46:385][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2019.04.25-10.58.46:409][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.25-10.59.00:839][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.25-10.59.05:129][382]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.25-10.59.05:153][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2019.04.25-10.59.05:153][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2019.04.25-10.59.05:154][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2019.04.25-10.59.05:154][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2019.04.25-10.59.05:154][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2019.04.25-10.59.05:154][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2019.04.25-10.59.05:154][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2019.04.25-10.59.05:154][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2019.04.25-10.59.05:156][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2019.04.25-10.59.05:156][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2019.04.25-10.59.05:156][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2019.04.25-10.59.05:156][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2019.04.25-10.59.05:156][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2019.04.25-10.59.05:156][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2019.04.25-10.59.05:157][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2019.04.25-10.59.05:157][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2019.04.25-10.59.05:157][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2019.04.25-10.59.05:157][382]LoadErrors: Failed to load /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C Referenced by Default__ThirdPersonCharacter_C
+[2019.04.25-10.59.05:157][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2019.04.25-10.59.05:158][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2019.04.25-10.59.05:158][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2019.04.25-10.59.05:158][382]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2019.04.25-10.59.05:158][382]LoadErrors: Failed to load /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin Referenced by Default__ThirdPersonCharacter_C
+[2019.04.25-10.59.05:158][382]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2019.04.25-10.59.05:169][382]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.04.25-10.59.05:169][382]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.04.25-10.59.05:170][382]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.04.25-10.59.05:170][382]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.04.25-10.59.05:177][382]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0032,63] Compile of ThirdPersonCharacter successful, but with 4 Warning(s) [in 15 ms] (/Game/Lennart/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.04.25-10.59.05:237][382]LogAIModule: Creating AISystem for world My_World
+[2019.04.25-10.59.05:251][382]LogAssetEditorManager: Opening Asset editor for World /Game/Lennart/My_World.My_World
+[2019.04.25-10.59.05:281][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.04.25-10.59.05:282][382]Cmd: MAP LOAD FILE="../../../../../../Dateien/Github/CD-Camp/CD-Camp_2D_Adventure/Unreal_Projekt/Adventure/Content/Lennart/My_World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.25-10.59.05:282][382]LightingResults: New page: Lighting Build
+[2019.04.25-10.59.05:290][382]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.04.25-10.59.05:290][382]LoadErrors: New page: Loading map: My_World.umap
+[2019.04.25-10.59.05:291][382]MapCheck: New page: Map Check
+[2019.04.25-10.59.05:291][382]LightingResults: New page: Lighting Build
+[2019.04.25-10.59.05:321][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.04.25-10.59.05:325][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.25-10.59.05:358][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.04.25-10.59.05:373][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.25-10.59.05:373][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2019.04.25-10.59.05:373][382]LogFileHelpers: Loading map 'My_World' took 0.091
+[2019.04.25-10.59.10:690][859]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2019.04.25-10.59.10:690][859]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2019.04.25-10.59.10:691][859]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2019.04.25-10.59.10:691][859]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2019.04.25-10.59.10:691][859]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2019.04.25-10.59.10:692][859]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2019.04.25-10.59.10:692][859]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2019.04.25-10.59.10:692][859]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2019.04.25-10.59.10:692][859]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2019.04.25-10.59.10:693][859]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C Referenced by Default__ThirdPersonGameMode_C
+[2019.04.25-10.59.10:693][859]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2019.04.25-10.59.10:730][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.04.25-10.59.14:834][859]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.25-10.59.23:524][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.04.25-10.59.30:097][787]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.25-10.59.30:102][787]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Lennart/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+	Asset Name: /Game/Lennart/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.04.25-10.59.30:616][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.04.25-10.59.30:853][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.04.25-10.59.30:883][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.04.25-10.59.30:914][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.04.25-10.59.30:941][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.04.25-10.59.32:525][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.04.25-10.59.32:608][939]LogSavePackage: Moving '../../../../../../Dateien/Github/CD-Camp/CD-Camp_2D_Adventure/Unreal_Projekt/Adventure/Saved/My_WorldEFD7BDBF48BFE648C200EEB4AC23B9E7.tmp' to '../../../../../../Dateien/Github/CD-Camp/CD-Camp_2D_Adventure/Unreal_Projekt/Adventure/Content/Lennart/My_World.umap'
+[2019.04.25-10.59.32:635][939]LogSavePackage: Moving '../../../../../../Dateien/Github/CD-Camp/CD-Camp_2D_Adventure/Unreal_Projekt/Adventure/Saved/My_World_BuiltData4B56F8DC48C6CD15477811992E48F200.tmp' to '../../../../../../Dateien/Github/CD-Camp/CD-Camp_2D_Adventure/Unreal_Projekt/Adventure/Content/Lennart/My_World_BuiltData.uasset'
+[2019.04.25-10.59.33:447][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.25-10.59.33:456][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lennart/My_World.My_World:PersistentLevel' has LevelScriptBlueprint '/Game/Lennart/My_World.My_World:PersistentLevel.My_World' with GeneratedClass '/Game/Lennart/My_World.My_World_C' with ClassGeneratedBy '/Game/Lennart/My_World.My_World:PersistentLevel.My_World'
+[2019.04.25-10.59.33:456][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.25-10.59.33:456][ 19]PIE: New page: PIE session: My_World (25.04.2019 14:59:33)
+[2019.04.25-10.59.33:468][ 19]LogPlayLevel: Creating play world package: /Game/Lennart/UEDPIE_0_My_World
+[2019.04.25-10.59.33:470][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001385s)
+[2019.04.25-10.59.33:470][ 19]LogAIModule: Creating AISystem for world My_World
+[2019.04.25-10.59.33:470][ 19]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2019.04.25-10.59.33:470][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lennart/My_World.My_World to /Game/Lennart/UEDPIE_0_My_World.My_World (0.002269s)
+[2019.04.25-10.59.33:498][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.04.25-10.59.33:516][ 19]LogInit: XAudio2 using 'Lautsprecher (2- High Definition Audio-Gerät)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.25-10.59.33:533][ 19]LogInit: FAudioDevice initialized.
+[2019.04.25-10.59.33:576][ 19]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2019.04.25-10.59.33:577][ 19]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownGameMode'
+[2019.04.25-10.59.33:577][ 19]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2019.04.25-10.59.33:577][ 19]LogLoad: Game class is 'GameModeBase'
+[2019.04.25-10.59.33:583][ 19]LogWorld: Bringing World /Game/Lennart/UEDPIE_0_My_World.My_World up for play (max tick rate 0) at 2019.04.25-12.59.33
+[2019.04.25-10.59.33:584][ 19]LogWorld: Bringing up level for play took: 0.001879
+[2019.04.25-10.59.33:654][ 19]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2019.04.25-10.59.33:656][ 19]PIE: Play in editor start time for /Game/Lennart/UEDPIE_0_My_World 1,185
+[2019.04.25-10.59.33:656][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lennart/My_World.My_World:PersistentLevel' has LevelScriptBlueprint '/Game/Lennart/My_World.My_World:PersistentLevel.My_World' with GeneratedClass '/Game/Lennart/My_World.My_World_C' with ClassGeneratedBy '/Game/Lennart/My_World.My_World:PersistentLevel.My_World'
+[2019.04.25-10.59.36:823][363]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lennart/My_World.My_World:PersistentLevel' has LevelScriptBlueprint '/Game/Lennart/My_World.My_World:PersistentLevel.My_World' with GeneratedClass '/Game/Lennart/My_World.My_World_C' with ClassGeneratedBy '/Game/Lennart/My_World.My_World:PersistentLevel.My_World'
+[2019.04.25-10.59.36:823][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.25-10.59.36:854][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.25-10.59.36:854][363]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lennart/My_World.My_World:PersistentLevel' has LevelScriptBlueprint '/Game/Lennart/My_World.My_World:PersistentLevel.My_World' with GeneratedClass '/Game/Lennart/My_World.My_World_C' with ClassGeneratedBy '/Game/Lennart/My_World.My_World:PersistentLevel.My_World'
+[2019.04.25-10.59.36:886][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.25-10.59.36:889][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.04.25-10.59.36:925][365]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.25-10.59.41:850][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
